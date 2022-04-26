@@ -107,7 +107,7 @@ if __name__ == '__main__':
 	main()
   
   
-  
+#Below code is for Notebook.
 '''  
 import requests
 import csv
