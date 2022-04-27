@@ -4,7 +4,7 @@ Assignment on NYC taxi datasets yellow taxi trip data for 2020
 
 Attached Yellow_taxi_trip_main_2020.py contain a code to run in spark shell.Tweak in a code may needed depend on the cluster configuration.
 
-In the same file at the downside a commented code is there which can be directly run in Notebook without any tweak to test the code.
+Databrick_Notebook_Code which can be directly run in Notebook without any tweak to test the code.
 
 IF_common_function is a file contain a commonly used functions.
 
