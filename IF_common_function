@@ -38,3 +38,4 @@ class common_function_class:
         text = msg.as_string()
         server.sendmail(email_sender_id, email_reciever_id,text)
         server.quit()
+'
